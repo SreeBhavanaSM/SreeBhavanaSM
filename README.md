@@ -1,6 +1,6 @@
 👋 Hi, I’m @SreeBhavanaSM 
 
-🌱 I’m currently learning frontend web develoupment,python
+🌱 I’m currently learning frontend web develoupment'
 
 Currently trying to step into the web development.
 
