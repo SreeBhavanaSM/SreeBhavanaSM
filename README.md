@@ -1,9 +1,8 @@
 👋 Hi, I’m @SreeBhavanaSM 
 
-🌱 I’m currently learning frontend web develoupment.
+🌱 I'm a frontend web developer with 2 years of experience in UI/UX design, creating intuitive and visually appealing interfaces. I've worked on ASP.NET projects and am currently enhancing my skills with React to build modern, responsive web applications.
 
-Currently trying to step into the web development.
 
-👀 I’m interested in sketching, gaming, watching movies and coding.
+👀 Outside of coding, I'm passionate about sketching, gaming, and watching movies — all of which inspire my creative approach to design and development.
 
 📫 How to reach me ... bhavana.sam30@gmail.com
